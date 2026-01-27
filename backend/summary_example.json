@@ -1,0 +1,14 @@
+{
+    "total_equipment": 15,
+    "avg_flowrate": 119.8,
+    "avg_pressure": 6.106666666666667,
+    "avg_temperature": 117.46666666666667,
+    "type_distribution": {
+        "Pump": 4,
+        "Valve": 3,
+        "Compressor": 2,
+        "HeatExchanger": 2,
+        "Reactor": 2,
+        "Condenser": 2
+    }
+}
