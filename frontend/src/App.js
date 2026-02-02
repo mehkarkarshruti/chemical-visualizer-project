@@ -412,7 +412,7 @@ function App() {
         </div>
         {/* Footer always visible */}
         <footer style={{ marginTop: "20px", textAlign: "center", color: "#6b7280" }}>
-          <p>Developed by: Shruti Mehkarkar | email: mehkarkars1211@gmail.com | university: VIT Bhopal University</p>
+          <p>Developed by: Shruti Mehkarkar | Email: mehkarkars1211@gmail.com | University: VIT Bhopal University</p>
         </footer>
 
 

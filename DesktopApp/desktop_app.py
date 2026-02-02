@@ -554,8 +554,8 @@ class ChemicalEquipmentApp(QMainWindow):
         layout.setContentsMargins(30, 5, 30, 5)
         
         developer_text = QLabel(
-            f"👨‍💻 Developed by: {self.developer_info['name']} | "
-            f"email: {self.developer_info['email']} | "
+            f"Developed by: {self.developer_info['name']} | "
+            f"Email: {self.developer_info['email']} | "
             f"{self.developer_info['university']}"
         )
         developer_text.setObjectName("developerText")
